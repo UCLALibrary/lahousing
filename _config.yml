@@ -21,7 +21,7 @@
 title:            'LA Housing'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://UCLALibrary.github.io'
-baseurl:          '/wax'
+baseurl:          '/lahousing'
 copyright:        'Copyright UCLA Library, 2020'
 logo:             '/assets/logo.png'
 
