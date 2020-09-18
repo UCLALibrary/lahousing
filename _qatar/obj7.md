@@ -1,16 +1,22 @@
 ---
 pid: obj7
-artist: Unknown
-location: Iran
-label: Page from the Shahnama
-_date: 1525 - 1535
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_Century_-_Page_from_the_Shahnama_-_Google_Art_Project.jpg
+publisher: Los Angeles Daily News
+location: Los Angeles (Calif.)
+label: Street scene in Chavez Ravine, Los Angeles, 1947
+_date: '1947'
+object_type: photograph
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/xp9n9845bh-03031
+copyright_status: copyrighted
 order: '06'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj7/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj7/manifest.json"
+subjects: Eminent domain--California; Mexican American neighborhoods--California--Los
+  Angeles; Environment; Chávez Ravine (Los Angeles, Calif.); Land use--California--Los
+  Angeles; Eviction--California--Los Angeles; Aréchiga Family
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/100,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/600,/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb5489n9px/manifest
+Note: 
 ---

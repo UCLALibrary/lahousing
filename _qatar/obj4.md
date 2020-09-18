@@ -1,16 +1,21 @@
 ---
 pid: obj4
-artist: Unknown
-location: Iran
-label: Faridun crosses the River Dijla, fol. 33v
-_date: 1525 - 1535
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran_-_Page_from_the_Shahnama_of_Shah_Tahmasp_-_Google_Art_Project.jpg
+publisher: Los Angeles Daily News
+location: Los Angeles (Calif.)
+label: Woman stands with four children in the slums, Los Angeles, 1925-1945
+_date: 1925-1945
+object_type: photograph
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/xmng5200zz-89112
+copyright_status: copyrighted
 order: '03'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj4/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj4/manifest.json"
+subjects: Lifestyle; Poverty--California--Los Angeles; Youth; Culture; Children--California--Los
+  Angeles; Slums--California--Los Angeles
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0025gnmx/full/100,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0025gnmx/full/600,/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0025gnmx/manifest
+Note: 
 ---

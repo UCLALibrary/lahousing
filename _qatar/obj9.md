@@ -1,16 +1,23 @@
 ---
 pid: obj9
-artist: Mihr 'Ali
-location: Iran
-label: Portrait of Fath 'Ali Shah
-_date: '1816'
-object_type: portrait
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Mihr_%27Ali,_Iran,_1816_-_Portrait_of_Fath_%27Ali_Shah_-_Google_Art_Project.jpg
+publisher: Los Angeles Daily News
+location: Los Angeles (Calif.)
+label: Home in Chavez Ravine, Los Angeles, circa 1951
+_date: '1951'
+object_type: photograph
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/kg0p9916bh-03031
+copyright_status: copyrighted
 order: '08'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj9/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj9/manifest.json"
+subjects: Eminent domain--California; Mexican American women--California--Los Angeles;
+  Mexican American neighborhoods--California--Los Angeles; Mexican Americans--Housing--California--Los
+  Angeles; Chávez Ravine (Los Angeles, Calif.); Dwellings--California--Los Angeles;
+  Land use--California--Los Angeles; Palacios, Rebecca; Aréchiga Family
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6199p0gk/full/100,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6199p0gk/full/600,/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb6199p0gk/manifest
+Note: 
 ---

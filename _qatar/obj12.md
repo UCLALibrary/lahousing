@@ -1,16 +1,22 @@
 ---
 pid: obj12
-artist: Bahādur Fīrūz, ʻAbd Allāh Khān
-location: Middle East and North Africa
-label: Excerpt from 'The Book of Horses' (فَرَس نامه [رسالة في الخيول)
-_date: Around 1628 - 1658
-object_type: manuscript
-current_location: Qatar National Library
-source: https://www.wdl.org/en/item/10668/
+publisher: Los Angeles Times
+location: Los Angeles (Calif.)
+label: Angustain family evicted from home in Chavez Ravine, Los Angeles (Calif.)
+_date: 05-09-1954
+object_type: photograph
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/gw6cn764tk-03031
+copyright_status: copyrighted
 order: '11'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj12_00/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj12_00/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj12/manifest.json"
+subjects: Eminent domain--California; Eviction--California--Los Angeles; Mexican American
+  neighborhoods--California--Los Angeles; Mexican Americans--Housing--California--Los
+  Angeles; Vargas, Aurora; Chavez Ravine (Los Angeles, Calif.); Aréchiga Family
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fkt467nc6wg/full/100,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fkt467nc6wg/full/600,/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fkt467nc6wg/manifest
+Note: Mislabeled is Aurora Vargas not Angustaín
 ---

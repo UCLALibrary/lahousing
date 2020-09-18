@@ -1,16 +1,22 @@
 ---
 pid: obj10
-artist: Unknown
-location: Iran
-label: Portrait of Hasan 'Ali Mirza Shuja al-Saltana
-_date: 1800 - 1850
-object_type: portrait
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_early_19th_Century_-_Portrait_of_Hasan_%27Ali_Mirza_Shuja_al-Saltana_-_Google_Art_Project.jpg
+publisher: Los Angeles Times
+location: Los Angeles (Calif.)
+label: Bulldozer razes last standing home in Chavez Ravine, Los Angeles (Calif.)
+_date: 05-09-1954
+object_type: photograph
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/4z7004k6bh-03031
+copyright_status: copyrighted
 order: '09'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj10/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj10/manifest.json"
+subjects: Eminent domain--California; Eviction--California--Los Angeles; Mexican American
+  neighborhoods--California--Los Angeles; Mexican Americans--Housing--California--Los
+  Angeles; Arechiga, Abrana; Chavez Ravine (Los Angeles, Calif.) ; Aréchiga Family
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6k4007z4/full/100,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6k4007z4/full/600,/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb6k4007z4/manifest
+Note: 
 ---

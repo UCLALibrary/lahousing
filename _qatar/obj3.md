@@ -1,16 +1,22 @@
 ---
 pid: obj3
-artist: Unknown
-location: Egypt
-label: Map of the World
-_date: 15th century
+publisher: Miriam Matthews Photograph Collection
+location: Los Angeles (Calif.)
+label: "Map of Los Angeles titled \"A Study in Black & White: Spread of Negro race
+  \nshown by dark spots & areas. Proper Restrictions: The only safeguard,\" \nbetween
+  1923-1930"
+_date: 1923-1930
 object_type: map
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt,_15th_Century_-_Map_of_World_-_Google_Art_Project.jpg
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/t0z9wj1z-89112
+copyright_status: unknown
 order: '02'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj3/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj3/manifest.json"
+subjects: Discrimination in housing
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jw9z0t/full/100,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jw9z0t/full/600,/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jw9z0t/manifest
+Note: 
 ---

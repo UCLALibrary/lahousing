@@ -1,16 +1,26 @@
 ---
 pid: obj2
-artist: Unknown
-location: Egypt
-label: Sulwan Al-Muta'a
-_date: 14th century
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Century_-_Sulwan_Al-Muta%27a_-_Google_Art_Project.jpg
+publisher: Los Angeles (Calif.). City Planning Commission.
+location: Los Angeles (Calif.)
+label: 'Maps showing distribution of racial and national groups in the Los Angeles
+  area, according to the 1940 United States census: Distribution of foreign born Mexicans,
+  U.S. Census data, 1940 : (Note: not including non-white)'
+_date: '1943'
+object_type: map
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/g253d100zz-89112
+copyright_status: |2-
+
+  public domain
 order: '01'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj2/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj2/manifest.json"
+subjects: Ethnology--California--Los Angeles--Statistics--Maps; Ethnology--California--Los
+  Angeles County--Statistics--Maps; Los Angeles (Calif.)--Population--Statistics--Maps;
+  Los Angeles County (Calif.)--Population--Statistics--Maps
+thumbnail: 
+full: 
+manifest: 
+Note: 
 ---

@@ -1,16 +1,23 @@
 ---
 pid: obj8
-artist: Unknown
-location: Iran
-label: Silk Tapestry Depicting the story of Leila and Majnun
-_date: 1550 - 1650
-object_type: panel
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_or_16th_Century_-_Silk_Tapestry_Depicting_the_story_of_Leila_and_Majnun_-_Google_Art_Project.jpg
+publisher: Los Angeles Daily News
+location: Los Angeles (Calif.)
+label: Chavez Ravine residents refuse eviction order
+_date: '1951-08-20'
+object_type: photograph
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/2w0p92r5bh-03031
+copyright_status: copyrighted
 order: '07'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj8/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj8/manifest.json"
+subjects: Economy; Activism; Mexican American neighborhoods--California--Los Angeles;
+  Cerda, Agnes; Chavez Ravine (Los Angeles, Calif.); Land use--California--Los Angeles;
+  Eviction--California--Los Angeles; Mexican American women--California--Los Angeles;
+  Aréchiga Family
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5r29p0w2/full/100,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5r29p0w2/full/600,/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb5r29p0w2/manifest
+Note: 
 ---

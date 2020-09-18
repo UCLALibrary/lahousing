@@ -1,16 +1,22 @@
 ---
 pid: obj6
-artist: Unknown
-location: Iran
-label: Diwan of Jami Manuscript
-_date: 16th century
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_16th_Century_-_Diwan_of_Jami_Manuscript_-_Google_Art_Project.jpg
+publisher: Los Angeles Daily News
+location: Los Angeles (Calif.)
+label: Hillside view of Chavez Ravine, Los Angeles, 1946
+_date: '1946'
+object_type: photograph
+current_location: University of California, Los Angeles. Library. Department of Special
+  Collections
+source: https://digital.library.ucla.edu/catalog/j04bn837bh-03031
+copyright_status: copyrighted
 order: '05'
 layout: lahousing_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj6/full/full/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj6/manifest.json"
+subjects: |-
+  Eminent domain--California; Land use--California--Los Angeles
+  Environment; Chávez Ravine (Los Angeles, Calif.); Landmarks; Dwellings--California--Los Angeles; Mexican American neighborhoods--California--Los Angeles; Aréchiga Family
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb738nb40j/full/100,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb738nb40j/full/600,/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb738nb40j/manifest
+Note: 
 ---
