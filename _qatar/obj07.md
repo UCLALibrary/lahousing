@@ -1,6 +1,6 @@
 ---
-pid: obj7
-publisher: Los Angeles Daily News
+pid: obj07
+artist: Los Angeles Daily News
 location: Los Angeles (Calif.)
 label: Street scene in Chavez Ravine, Los Angeles, 1947
 _date: '1947'
@@ -12,11 +12,12 @@ copyright_status: copyrighted
 order: '06'
 layout: lahousing_item
 collection: qatar
+ucla_collection: Chavez Ravine
 subjects: Eminent domain--California; Mexican American neighborhoods--California--Los
   Angeles; Environment; Chávez Ravine (Los Angeles, Calif.); Land use--California--Los
   Angeles; Eviction--California--Los Angeles; Aréchiga Family
-thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/100,/0/default.jpg
-full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/600,/0/default.jpg
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/250,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb5489n9px/manifest
 Note: 
 ---
