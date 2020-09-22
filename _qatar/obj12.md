@@ -1,6 +1,6 @@
 ---
 pid: obj12
-publisher: Los Angeles Times
+artist: Los Angeles Times
 location: Los Angeles (Calif.)
 label: Angustain family evicted from home in Chavez Ravine, Los Angeles (Calif.)
 _date: 05-09-1954
@@ -12,11 +12,12 @@ copyright_status: copyrighted
 order: '11'
 layout: lahousing_item
 collection: qatar
+ucla_collection: Chavez Ravine
 subjects: Eminent domain--California; Eviction--California--Los Angeles; Mexican American
   neighborhoods--California--Los Angeles; Mexican Americans--Housing--California--Los
   Angeles; Vargas, Aurora; Chavez Ravine (Los Angeles, Calif.); Aréchiga Family
-thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fkt467nc6wg/full/100,/0/default.jpg
-full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fkt467nc6wg/full/600,/0/default.jpg
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fkt467nc6wg/full/250,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fkt467nc6wg/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fkt467nc6wg/manifest
 Note: Mislabeled is Aurora Vargas not Angustaín
 ---

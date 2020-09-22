@@ -18,8 +18,8 @@ ucla_collection: Early Los Angeles communities
 subjects: Ethnology--California--Los Angeles--Statistics--Maps; Ethnology--California--Los
   Angeles County--Statistics--Maps; Los Angeles (Calif.)--Population--Statistics--Maps;
   Los Angeles County (Calif.)--Population--Statistics--Maps
-thumbnail:
-full:
-manifest:
-Note:
+thumbnail: 
+full: 
+manifest: 
+Note: 
 ---

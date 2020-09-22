@@ -1,6 +1,6 @@
 ---
 pid: obj20
-publisher: Los Angeles Daily News
+artist: Los Angeles Daily News
 location: Los Angeles (Calif.)
 label: Demonstrators protest discriminatory zoning at Los Angeles City Hall, 1946
 _date: '1946'
@@ -12,10 +12,11 @@ copyright_status: copyrighted
 order: '19'
 layout: lahousing_item
 collection: qatar
+ucla_collection: Laws family
 subjects: Activism; Demonstrations; Government; Discrimination in housing; African
   Americans--Housing--California--Los Angeles | Laws Family
-thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/100,/0/default.jpg
-full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/600,/0/default.jpg
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/250,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb8t1nb5st/manifest
 Note: 
 ---
