@@ -3,40 +3,30 @@ layout: none
 ---
 [
   {
-    "pid": "obj5",
-    "location": "Los Angeles (Calif.)",
-    "label": "Mural titled \"The Negro in California History - Settlement and Development\" by Hale Woodruff, at the Golden State Mutual Life Insurance Building, Los Angeles, circa 1949",
-    "_date": "1949",
-    "object_type": "photograph",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11279mb/full/100,/0/default.jpg",
-    "permalink": "/qatar/obj5",
-    "lunr_id": 0
-  },
-  {
     "pid": "obj10",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Bulldozer razes last standing home in Chavez Ravine, Los Angeles (Calif.)",
     "_date": "05-09-1954",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6k4007z4/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6k4007z4/full/250,/0/default.jpg",
     "permalink": "/qatar/obj10",
-    "lunr_id": 1
+    "lunr_id": 0
   },
   {
     "pid": "obj24",
+    "artist": "Miriam Matthews Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Gladys Mason Owens (92), Linda Spikes Cox (standing), Robynn Cox, Cheryl Cox (bottom), Los Angeles, 1988",
     "_date": "1988",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kp9k3v/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kp9k3v/full/250,/0/default.jpg",
     "permalink": "/qatar/obj24",
-    "lunr_id": 2
+    "lunr_id": 1
   },
   {
     "pid": "obj04",
@@ -49,43 +39,33 @@ layout: none
     "collection": "qatar",
     "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0025gnmx/full/250,/0/default.jpg",
     "permalink": "/qatar/obj04",
-    "lunr_id": 3
-  },
-  {
-    "pid": "obj1",
-    "location": "Los Angeles (Calif.)",
-    "label": "Map of California land grants held by people of African descent from 1784 to 1810",
-    "_date": null,
-    "object_type": "map",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16q3fcf/full/100,/0/default.jpg",
-    "permalink": "/qatar/obj1",
-    "lunr_id": 4
+    "lunr_id": 2
   },
   {
     "pid": "obj20",
+    "artist": "Los Angeles Daily News",
     "location": "Los Angeles (Calif.)",
     "label": "Demonstrators protest discriminatory zoning at Los Angeles City Hall, 1946",
     "_date": "1946",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/250,/0/default.jpg",
     "permalink": "/qatar/obj20",
-    "lunr_id": 5
+    "lunr_id": 3
   },
   {
     "pid": "obj14",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Chavez Ravine residents wave good-bye from truck",
     "_date": "05-16-1959",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb4779n9fn/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb4779n9fn/full/250,/0/default.jpg",
     "permalink": "/qatar/obj14",
-    "lunr_id": 6
+    "lunr_id": 4
   },
   {
     "pid": "obj05",
@@ -98,31 +78,33 @@ layout: none
     "collection": "qatar",
     "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11279mb/full/250,/0/default.jpg",
     "permalink": "/qatar/obj05",
-    "lunr_id": 7
+    "lunr_id": 5
   },
   {
     "pid": "obj21",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Groundbreaking ceremony for Watts City Hall, Los Angeles, 1936",
     "_date": "1936",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002h849g/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002h849g/full/250,/0/default.jpg",
     "permalink": "/qatar/obj21",
-    "lunr_id": 8
+    "lunr_id": 6
   },
   {
     "pid": "obj15",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Aerial view of baseball game at Dodgers Stadium in Los Angeles, 1962",
     "_date": "07-16-1962",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rdch/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rdch/full/250,/0/default.jpg",
     "permalink": "/qatar/obj15",
-    "lunr_id": 9
+    "lunr_id": 7
   },
   {
     "pid": "obj01",
@@ -135,55 +117,33 @@ layout: none
     "collection": "qatar",
     "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16q3fcf/full/250,/0/default.jpg",
     "permalink": "/qatar/obj01",
-    "lunr_id": 10
-  },
-  {
-    "pid": "obj4",
-    "location": "Los Angeles (Calif.)",
-    "label": "Woman stands with four children in the slums, Los Angeles, 1925-1945",
-    "_date": "1925-1945",
-    "object_type": "photograph",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0025gnmx/full/100,/0/default.jpg",
-    "permalink": "/qatar/obj4",
-    "lunr_id": 11
+    "lunr_id": 8
   },
   {
     "pid": "obj11",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Sheriff Deputies evict Abrana Arechiga from Chavez Ravine home",
     "_date": "05-09-1954",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb038nb0c4/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb038nb0c4/full/250,/0/default.jpg",
     "permalink": "/qatar/obj11",
-    "lunr_id": 12
+    "lunr_id": 9
   },
   {
     "pid": "obj25",
+    "artist": "Miriam Matthews Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Charlotta Bass seated at her desk a the California Eagle, Los Angeles, 1930s",
     "_date": "1930",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gj121d/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gj121d/full/250,/0/default.jpg",
     "permalink": "/qatar/obj25",
-    "lunr_id": 13
-  },
-  {
-    "pid": "obj9",
-    "location": "Los Angeles (Calif.)",
-    "label": "Home in Chavez Ravine, Los Angeles, circa 1951",
-    "_date": "1951",
-    "object_type": "photograph",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6199p0gk/full/100,/0/default.jpg",
-    "permalink": "/qatar/obj9",
-    "lunr_id": 14
+    "lunr_id": 10
   },
   {
     "pid": "obj08",
@@ -196,19 +156,20 @@ layout: none
     "collection": "qatar",
     "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5r29p0w2/full/250,/0/default.jpg",
     "permalink": "/qatar/obj08",
-    "lunr_id": 15
+    "lunr_id": 11
   },
   {
     "pid": "obj18",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Pickets at Valley Board of Realtors office in protest over board's stance against Rumford Housing Act, Van Nuys, Calif., 1964",
     "_date": "04-24-1964",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002s3hp/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002s3hp/full/250,/0/default.jpg",
     "permalink": "/qatar/obj18",
-    "lunr_id": 16
+    "lunr_id": 12
   },
   {
     "pid": "obj09",
@@ -221,31 +182,20 @@ layout: none
     "collection": "qatar",
     "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6199p0gk/full/250,/0/default.jpg",
     "permalink": "/qatar/obj09",
-    "lunr_id": 17
+    "lunr_id": 13
   },
   {
     "pid": "obj19",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Dr. Martin Luther King Jr. speaking at civil rights rally at Los Angeles Coliseum, 1964",
     "_date": "06-01-1964",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002s4mq/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002s4mq/full/250,/0/default.jpg",
     "permalink": "/qatar/obj19",
-    "lunr_id": 18
-  },
-  {
-    "pid": "obj8",
-    "location": "Los Angeles (Calif.)",
-    "label": "Chavez Ravine residents refuse eviction order",
-    "_date": "1951-08-20",
-    "object_type": "photograph",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5r29p0w2/full/100,/0/default.jpg",
-    "permalink": "/qatar/obj8",
-    "lunr_id": 19
+    "lunr_id": 14
   },
   {
     "pid": "obj06",
@@ -258,43 +208,33 @@ layout: none
     "collection": "qatar",
     "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb738nb40j/full/250,/0/default.jpg",
     "permalink": "/qatar/obj06",
-    "lunr_id": 20
-  },
-  {
-    "pid": "obj3",
-    "location": "Los Angeles (Calif.)",
-    "label": "Map of Los Angeles titled \"A Study in Black & White: Spread of Negro race \nshown by dark spots & areas. Proper Restrictions: The only safeguard,\" \nbetween 1923-1930",
-    "_date": "1923-1930",
-    "object_type": "map",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jw9z0t/full/100,/0/default.jpg",
-    "permalink": "/qatar/obj3",
-    "lunr_id": 21
+    "lunr_id": 15
   },
   {
     "pid": "obj22",
+    "artist": "Los Angeles Daily News",
     "location": "Los Angeles (Calif.)",
     "label": "Demonstrators rest during a discriminatory housing protest, Los Angeles, 1945",
     "_date": "1945",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9p3009s3/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9p3009s3/full/250,/0/default.jpg",
     "permalink": "/qatar/obj22",
-    "lunr_id": 22
+    "lunr_id": 16
   },
   {
     "pid": "obj16",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "CORE sit-in demonstrators at Southwood Homes sales office, Torrance, Calif., 1963",
     "_date": "06-23-1963",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgp4/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgp4/full/250,/0/default.jpg",
     "permalink": "/qatar/obj16",
-    "lunr_id": 23
+    "lunr_id": 17
   },
   {
     "pid": "obj02",
@@ -307,31 +247,20 @@ layout: none
     "collection": "qatar",
     "thumbnail": null,
     "permalink": "/qatar/obj02",
-    "lunr_id": 24
-  },
-  {
-    "pid": "obj7",
-    "location": "Los Angeles (Calif.)",
-    "label": "Street scene in Chavez Ravine, Los Angeles, 1947",
-    "_date": "1947",
-    "object_type": "photograph",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/100,/0/default.jpg",
-    "permalink": "/qatar/obj7",
-    "lunr_id": 25
+    "lunr_id": 18
   },
   {
     "pid": "obj12",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Angustain family evicted from home in Chavez Ravine, Los Angeles (Calif.)",
     "_date": "05-09-1954",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fkt467nc6wg/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fkt467nc6wg/full/250,/0/default.jpg",
     "permalink": "/qatar/obj12",
-    "lunr_id": 26
+    "lunr_id": 19
   },
   {
     "pid": "obj03",
@@ -344,31 +273,20 @@ layout: none
     "collection": "qatar",
     "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jw9z0t/full/250,/0/default.jpg",
     "permalink": "/qatar/obj03",
-    "lunr_id": 27
-  },
-  {
-    "pid": "obj6",
-    "location": "Los Angeles (Calif.)",
-    "label": "Hillside view of Chavez Ravine, Los Angeles, 1946",
-    "_date": "1946",
-    "object_type": "photograph",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb738nb40j/full/100,/0/default.jpg",
-    "permalink": "/qatar/obj6",
-    "lunr_id": 28
+    "lunr_id": 20
   },
   {
     "pid": "obj13",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Sheriff Deputies carry Aurora Vargas from Chavez Ravine home",
     "_date": "05-09-1954",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb3d5nb2f1/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb3d5nb2f1/full/250,/0/default.jpg",
     "permalink": "/qatar/obj13",
-    "lunr_id": 29
+    "lunr_id": 21
   },
   {
     "pid": "obj07",
@@ -381,42 +299,32 @@ layout: none
     "collection": "qatar",
     "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/250,/0/default.jpg",
     "permalink": "/qatar/obj07",
-    "lunr_id": 30
-  },
-  {
-    "pid": "obj2",
-    "location": "Los Angeles (Calif.)",
-    "label": "Maps showing distribution of racial and national groups in the Los Angeles area, according to the 1940 United States census: Distribution of foreign born Mexicans, U.S. Census data, 1940 : (Note: not including non-white)",
-    "_date": "1943",
-    "object_type": "map",
-    "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
-    "collection": "qatar",
-    "thumbnail": null,
-    "permalink": "/qatar/obj2",
-    "lunr_id": 31
+    "lunr_id": 22
   },
   {
     "pid": "obj23",
+    "artist": "Los Angeles Daily News",
     "location": "Los Angeles (Calif.)",
     "label": "Demonstrators protest discriminatory zoning at Los Angeles City Hall, 1946",
     "_date": "1946",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/250,/0/default.jpg",
     "permalink": "/qatar/obj23",
-    "lunr_id": 32
+    "lunr_id": 23
   },
   {
     "pid": "obj17",
+    "artist": "Los Angeles Times",
     "location": "Los Angeles (Calif.)",
     "label": "Group loading bus headed to Sacramento fair housing law hearing, Los Angeles, Calif., 1963",
     "_date": "06-12-1963",
     "object_type": "photograph",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgj2/full/100,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgj2/full/250,/0/default.jpg",
     "permalink": "/qatar/obj17",
-    "lunr_id": 33
+    "lunr_id": 24
   }
 ]
