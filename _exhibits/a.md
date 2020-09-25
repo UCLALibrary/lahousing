@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
+title: 'Early LA'
 author: Mihr 'Ali
 publish_date: 2018-11-15
 permalink: /exhibits/a/
