@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'LA Housing'
+title:            'Divided Development and the Struggle and the Struggle Against Housing Discrimination in LA'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://UCLALibrary.github.io'
 baseurl:          '/lahousing'
