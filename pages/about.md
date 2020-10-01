@@ -1,47 +1,23 @@
 ---
 layout: page
-title: What is Wax?
+title: About the Exhibit
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+Henry and Texanna Laws moved into a property near Watts, on the white side of the de facto racial divider of 92nd street, in October 1944. The property’s deed included a racially restrictive covenant, which their white neighbors enforced by suing the Laws. With the help of the NAACP, the Laws resisted the covenant in the courts in a legal battle they initially lost despite steadfast insistence on staying in their home. In 1948, the U.S. Supreme Court ruled in Shelley vs. Kraemer that covenants were illegal, and the covenant governing the Laws’ property was overturned. 
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+Perhaps the most infamous displacement of communities of color in Los Angeles history occurred in the Latino neighborhoods of Palo Verde, Bishop, and La Loma in the Chavez Ravine. The Battle of Chavez Ravine, a decade-long campaign by city officials and developers to uproot the area's residents in the service of redevelopment, began in earnest in 1950 but lasted through 1959. In July of 1950, the LA Sheriffs delivered eviction notices to the three communities, declaring their location the future site of a public housing development (designed by Richard Neutra) called 'Elysian Park Heights'. The Los Angeles City Housing Authority (CHA) expelled almost 3,800 residents of the neighborhoods, which they designated as “blighted”, throughout the 1950s.[^1] Developers' cash offers and the FHA’s use of eminent domain removed many of the Ravine's families before a first wave of demolitions in 1952, but some resisted the increasing pressure. The city broke its promises of a fair price and public housing in exchange for the residents’ lost homes after the election of anti-communist mayor Norris Poulson in 1953. 
+Instead, in 1958, they sold the land to Walter O’Malley to lure his Dodgers baseball team to LA with a new stadium.[^2] As residents who created the archival preservation and oral history project Chavez Ravine: An Unfinished Story wrote, “The massive transformation of Palo Verde, Bishop and La Loma over the course of the 1950s represents one of the most egregious examples of racist urban renewal practices and the displacement of communities of color.”
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+Some families refused to move and resisted displacement particularly in the last phase of evictions in May 1959. Iconic images of the Aréchiga family resisting forcible eviction galvanized public support for the community in the face of intractable political commitment to the stadium. Abrana and Manuel Aréchiga lived at 1771 Malvina Avenue in Palo Verde for over 40 years and stayed in the neighborhood despite nine years of eviction orders, sheriff’s deputies, and threats. In April 1959, councilman Ed Roybal intervened to prompt a settlement between the family and the city. Nevertheless, the Aréchiga family hoped to take their case to the Supreme Court, who refused to hear it. The family protested their displacement even after their home was destroyed, and they maintained a vigil outside of their tent until their forced removal by Sheriff's deputies. Images of war widow Aurora Vargas struggling against LA Sheriffs as they evicted her by force on May 8th, 1959 moved the public and long afterwards. Ground was broken on Dodger Stadium that September, and the finished park saw its first game in 1962. 
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+---
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
+### Notes
 
-## Who is Wax for?
+[^1]: Tara Yosso and David García, “‘This Is No Slum!’: A Critical Race Theory Analysis of Community Cultural Wealth in Culture Clash’s Chavez Ravine,” *Aztlan: A Journal of Chicano Studies* 32, no. 1 (2007): 156.
 
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
-
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
-
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
-
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
-
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
-
-
-## So what does the Wax workflow *look like?*
-
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
-
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
+[^2]: John H.M. Laslett, *Shameful Victory: The Los Angeles Dodgers, the Red Scare, and the Hidden History of Chavez Ravine* (University of Arizona Press, 2015), 4.
 
 <a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
   <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
