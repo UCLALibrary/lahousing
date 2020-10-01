@@ -3,14 +3,12 @@ layout: page
 show_title: false
 banner:
   collection: qatar
-  pid: obj10
+  pid: obj21
   y: 25%
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
-
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+__Divided Development and the Struggle for Housing Justice in LA__ uses archival materials from the UCLA Library’s digital collections to illustrate the richness of Los Angeles communities formed, contested, and reshaped amid discriminatory citywide development campaigns. Contextual essays are combined with photographs, contemporary print ephemera, local musical recordings, and relevant oral history recordings held by UCLA to tell the stories of the Aréchiga family in the Palo Verde neighborhood of the Chavez Ravine and the Laws family in Watts.
 
 ### Subjects
 
