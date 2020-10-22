@@ -13,9 +13,8 @@ order: '06'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Chavez Ravine
-subjects: Eminent domain--California; Mexican American neighborhoods--California--Los
-  Angeles; Environment; Chávez Ravine (Los Angeles, Calif.); Land use--California--Los
-  Angeles; Eviction--California--Los Angeles; Aréchiga Family
+subjects: Eminent domain; Mexican American neighborhoods; Mexican Americans; Environment;
+  Chavez Ravine; Land use; Aréchiga Family; Mexican American Women
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb5489n9px/manifest
