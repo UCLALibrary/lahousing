@@ -13,10 +13,8 @@ order: '08'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Chavez Ravine
-subjects: Eminent domain--California; Mexican American women--California--Los Angeles;
-  Mexican American neighborhoods--California--Los Angeles; Mexican Americans--Housing--California--Los
-  Angeles; Chávez Ravine (Los Angeles, Calif.); Dwellings--California--Los Angeles;
-  Land use--California--Los Angeles; Palacios, Rebecca; Aréchiga Family
+subjects: Eminent domain; Mexican American women; Mexican American neighborhoods;
+  Mexican Americans; Housing; Chavez Ravine; Palacios, Rebecca; Aréchiga Family
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6199p0gk/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6199p0gk/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb6199p0gk/manifest

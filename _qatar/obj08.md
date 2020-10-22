@@ -13,10 +13,9 @@ order: '07'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Chavez Ravine
-subjects: Economy; Activism; Mexican American neighborhoods--California--Los Angeles;
-  Cerda, Agnes; Chavez Ravine (Los Angeles, Calif.); Land use--California--Los Angeles;
-  Eviction--California--Los Angeles; Mexican American women--California--Los Angeles;
-  Aréchiga Family
+subjects: Eviction; Eminent domain; Protests; Mexican American neighborhoods; Mexican
+  Americans; Cerda, Agnes; Chavez Ravine; Land use; Mexican American women; Aréchiga
+  Family
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5r29p0w2/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5r29p0w2/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb5r29p0w2/manifest

@@ -2,22 +2,22 @@
 pid: obj23
 artist: Los Angeles Daily News
 location: Los Angeles (Calif.)
-label: Demonstrators protest discriminatory zoning at Los Angeles City Hall, 1946
-_date: '1946'
+label: Demonstrators rest during a discriminatory housing protest, Los Angeles, 1945
+_date: '1945'
 object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special
   Collections
-source: https://digital.library.ucla.edu/catalog/ts5bn1t8bh-03031
+source: " "
 copyright_status: copyrighted
 order: '22'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
-subjects: Activism; Demonstrations; Government; Discrimination in housing; African
-  Americans--Housing- California--Los Angeles; Los Angeles City Hall (Los Angeles,
-  Calif.); Eviction--California--Los Angeles | Laws Family
-thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/250,/0/default.jpg
-full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb8t1nb5st/full/full/0/default.jpg
-manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb8t1nb5st/manifest
+subjects: Clergy; African Americans; Civil Rights Workers; Activism; Civil rights;
+  Religious aspects; Religious leaders; Public speaking; King, Martin Luther, Jr.,
+  1929-1968; Laws Family
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9p3009s3/full/250,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9p3009s3/full/full/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb9p3009s3/manifest
 Note: 
 ---

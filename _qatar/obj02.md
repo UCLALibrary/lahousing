@@ -15,11 +15,10 @@ order: '01'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
-subjects: Ethnology--California--Los Angeles--Statistics--Maps; Ethnology--California--Los
-  Angeles County--Statistics--Maps; Los Angeles (Calif.)--Population--Statistics--Maps;
-  Los Angeles County (Calif.)--Population--Statistics--Maps
-thumbnail: 
-full: 
-manifest: 
+subjects: Ethnology; Statistics; Maps; Population; Mexican Americans; Mexican American
+  Neighborhoods
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz001d352g/full/250,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz001d352g/full/full/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001d352g/manifest
 Note: 
 ---

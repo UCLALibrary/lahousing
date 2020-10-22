@@ -15,8 +15,8 @@ order: '04'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
-subjects: California--History; African Americans—History; African Americans--California--Los
-  Angeles
+subjects: African Americans; Murals; Golden State Mutual Life Insurance Co.; Land
+  use
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11279mb/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11279mb/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz11279mb/manifest
