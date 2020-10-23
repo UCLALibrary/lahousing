@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'LA Housing'
-description:      'Minimal Exhibitions with Jekyll'
+description:      'A Collection Enhancement Project'
 url:              'https://UCLALibrary.github.io'
 baseurl:          '/lahousing'
 copyright:        'Copyright UCLA Library, 2020'
