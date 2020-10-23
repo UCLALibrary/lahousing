@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'LA Housing'
-description:      'Minimal Exhibitions with Jekyll'
+description:      'A Collection Enhancement Project'
 url:              'https://UCLALibrary.github.io'
 baseurl:          '/lahousing'
 copyright:        'Copyright UCLA Library, 2020'
@@ -108,8 +108,6 @@ menu:
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
-      - label: 'UCLA Library Digital Collections'
-        link: 'https://digital.library.ucla.edu/'
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
@@ -120,8 +118,6 @@ menu:
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -131,12 +127,12 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/UCLALibrary/lahousing'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+    - label: 'UCLA Library Digital Collections'
+      link: 'https://digital.library.ucla.edu/'
   logos:
-    - img: '/img/logo.png'
+    - img: '/img/housinglogo.png'
 
 # FIN
