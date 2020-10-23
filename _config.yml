@@ -108,8 +108,6 @@ menu:
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
-      - label: 'UCLA Library Digital Collections'
-        link: 'https://digital.library.ucla.edu/'
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
@@ -120,8 +118,6 @@ menu:
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
