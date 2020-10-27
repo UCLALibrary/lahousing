@@ -479,7 +479,7 @@ layout: none
     "object_type": "photograph",
     "current_location": "The Ralph J. Bunche Center for African American Studies",
     "collection": "qatar",
-    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cc2j82/full/250,/0/default.jpg https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz17m1sgf/full/250,/0/default.jpg",
+    "thumbnail": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cc2j82/full/300,/0/default.jpg",
     "permalink": "/qatar/obj36",
     "lunr_id": 36
   },
@@ -540,7 +540,7 @@ layout: none
     "artist": "Quinn, Alfred Thomas Collection",
     "location": null,
     "label": "Alfred Thomas Quinn with fellow soldiers during World War II",
-    "_date": null,
+    "_date": "1945",
     "object_type": "photograph",
     "current_location": "The Ralph J. Bunche Center for African American Studies",
     "collection": "qatar",
