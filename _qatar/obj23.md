@@ -7,7 +7,7 @@ _date: '1945'
 object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special
   Collections
-source: " "
+source: https://digital.library.ucla.edu/catalog/3s9003p9bh-03031
 copyright_status: copyrighted
 order: '22'
 layout: lahousing_item

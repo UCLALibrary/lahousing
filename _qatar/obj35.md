@@ -15,7 +15,7 @@ layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
 subjects: |-
-  African Americans--Civil rights; African Americans--Segregation; Picketing;
+  African Americans; Civil rights; Redlining; Picketing;
   Discrimination in housing; Citizens' Councils of America
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002tdqk/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002tdqk/full/600,/0/default.jpg

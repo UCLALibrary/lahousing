@@ -13,8 +13,8 @@ order: '39'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
-subjects: African American authors; African American civil rights workers; African
-  American sociologists; Du Bois, W. E. B. (William Edward Burghardt), 1868-1963
+subjects: African American; civil rights workers; African American sociologists; Du
+  Bois, W. E. B. (William Edward Burghardt), 1868-1963
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v42c7g/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v42c7g/full/600,/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v42c7g/manifest

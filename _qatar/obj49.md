@@ -13,7 +13,7 @@ order: '48'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
-subjects: Watts Riot, Los Angeles, Calif., 1965; Central Avenue
+subjects: Watts Riot, Los Angeles, Calif., 1965; Central Avenue; African Americans
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1nw12cw/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1nw12cw/full/600,/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1nw12cw/manifest

@@ -14,7 +14,7 @@ order: '37'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
-subjects: Lakes; Reservoirs; Los Angeles Department of Water and Power; African Americans--Employment
+subjects: Lakes; Reservoirs; Los Angeles Department of Water and Power; African Americans
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002t709/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002t709/full/600,/0/default.jpg
 manifest: https://californica.library.ucla.edu/concern/works/907t2000zz-89112/manifest?manifest=https://californica.library.ucla.edu/concern/works/907t2000zz-89112/manifest

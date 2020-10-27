@@ -15,8 +15,8 @@ order: '28'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
-subjects: 'African American clergy; African Americans--Religion; Baptist Church--Clergy;
-  Kilgore, Thomas; civil rights workers; civil rights--religious aspects; '
+subjects: African American clergy; African Americans; Religion; Baptist Church; Kilgore,
+  Thomas; civil rights workers; civil rights
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb009n99cc/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb009n99cc/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb009n99cc/manifest
