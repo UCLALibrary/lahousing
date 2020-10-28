@@ -4,8 +4,20 @@ title: Credits
 permalink: '/credits/'
 ---
 
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
+TEAM:
 
-We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
+Jake Tompkins, Joaquin Peres, Julia Tanenbaum, Katherine Ramirez, Rachel Abrahams, Syann Lunsford
 
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
+THANKS:
+
+Martha Steele – UCLA Library Cataloging and Metadata Center
+Claudia Horning – Director, Metadata Services/Data Integrity, UCLA Library Cataloging and Metadata Center
+Teresa Barnett – Director, UCLA Library Center for Oral History Research
+Dalena Hunter – Librarian/Archivist for Los Angeles Communities and Cultures, Library Special Collections
+Simon Elliott – Visual Materials Specialist & Licensing Coordinator, Library Special Collections
+
+We would like to give a special thank you to Dawn Childress, T-Kay Sandwand, and Geno Sanchez for their support and guidance throughout the creation of this exhibit, and for assisting us in our goal of enhancing the UCLA Library Digital Collections, UCLA Library Special Collections, and the UCLA Center for Oral History Research.
+
+LOGO:
+
+Condos Destroy Neighborhoods by [Paul Kjelland](https://justseeds.org/artist/paulkjelland/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
