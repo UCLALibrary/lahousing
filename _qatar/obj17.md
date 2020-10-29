@@ -1,6 +1,6 @@
 ---
 pid: obj17
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: CORE sit-in demonstrators at Southwood Homes sales office, Torrance, Calif.,
   1963

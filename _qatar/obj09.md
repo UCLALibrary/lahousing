@@ -1,6 +1,6 @@
 ---
 pid: obj09
-artist: Los Angeles Daily News
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
 label: Home in Chavez Ravine, Los Angeles, circa 1951
 _date: '1951'

@@ -1,6 +1,6 @@
 ---
 pid: obj34
-artist: Los Angeles Daily News
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
 label: Children on playground at Aliso Village Nursery School in Los Angeles, Calif.,
   1948

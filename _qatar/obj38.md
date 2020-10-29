@@ -1,6 +1,6 @@
 ---
 pid: obj38
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Know Your City No.135 One of the Van Norman Lakes, Owens River Aqueduct reservoir,
   Calif.

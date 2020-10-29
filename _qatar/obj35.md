@@ -1,6 +1,6 @@
 ---
 pid: obj35
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: People picketing outside segregationist Citizens' Council at the Los Angeles
   Breakfast Club, 1964

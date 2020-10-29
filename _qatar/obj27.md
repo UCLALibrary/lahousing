@@ -1,6 +1,6 @@
 ---
 pid: obj27
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Dr. Martin Luther King chatting with a little girl at Nickerson Gardens housing
   project in Los Angeles, Calif., 1964

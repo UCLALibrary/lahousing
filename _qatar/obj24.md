@@ -1,6 +1,6 @@
 ---
 pid: obj24
-artist: Los Angeles Daily News
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
 label: Demonstrators protest discriminatory zoning at Los Angeles City Hall, 1946
 _date: '1946'

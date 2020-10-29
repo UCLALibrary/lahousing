@@ -1,6 +1,6 @@
 ---
 pid: obj18
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Group loading bus headed to Sacramento fair housing law hearing, Los Angeles,
   Calif., 1963

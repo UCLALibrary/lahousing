@@ -1,6 +1,6 @@
 ---
 pid: obj39
-artist: Los Angeles Daily News
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
 label: F-86 Sabre jets being assembled at North American Aviation in Los Angeles,
   Calif., 1948

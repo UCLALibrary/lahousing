@@ -1,6 +1,6 @@
 ---
 pid: obj13
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Angustain family evicted from home in Chavez Ravine, Los Angeles (Calif.)
 _date: 05-09-1954

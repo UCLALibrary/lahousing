@@ -1,6 +1,6 @@
 ---
 pid: obj07
-artist: Los Angeles Daily News
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
 label: Street scene in Chavez Ravine, Los Angeles, 1947
 _date: '1947'

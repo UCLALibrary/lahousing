@@ -1,6 +1,6 @@
 ---
 pid: obj23
-artist: Los Angeles Daily News
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
 label: Demonstrators rest during a discriminatory housing protest, Los Angeles, 1945
 _date: '1945'

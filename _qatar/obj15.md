@@ -1,6 +1,6 @@
 ---
 pid: obj15
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Chavez Ravine residents wave good-bye from truck
 _date: 05-16-1959

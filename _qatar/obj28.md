@@ -1,6 +1,6 @@
 ---
 pid: obj28
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Marnesba Tackett, portrait
 _date: '09-01-1982'

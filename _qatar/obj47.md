@@ -1,13 +1,13 @@
 ---
 pid: obj47
-artist: Maps of Los Angeles, California, the United States and the World, circa 1516-1971
+artist: Maps of Los Angeles, California, the United States and the World, circa 1516-1970
 location: Los Angeles (Calif.)
 label: 'Inglewood the hub city : map of Los Angeles County, Southwest [Back]'
 _date: '1908'
 object_type: map
 current_location: University of California, Los Angeles. Library. Department of Special
   Collections
-source: https://digital.library.ucla.edu/catalog/35g69000zz-89113
+source: https://digital.library.ucla.edu/catalog/35g69000zz-89112
 copyright_status: public domain
 order: '46'
 layout: lahousing_item

@@ -1,6 +1,6 @@
 ---
 pid: obj41
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Los Angeles Mayor Poulson holds handfuls of letters and telegrams supporting
   stand against Soviet Premier Nikita Khrushchev, 1959

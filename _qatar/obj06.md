@@ -1,6 +1,6 @@
 ---
 pid: obj06
-artist: Los Angeles Daily News
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
 label: Hillside view of Chavez Ravine, Los Angeles, 1946
 _date: '1946'

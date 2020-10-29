@@ -1,6 +1,7 @@
 ---
 pid: obj02
-artist: Los Angeles (Calif.). City Planning Commission.
+artist: Maps Showing Distribution of Racial and National Groups in Los Angeles, according
+  to the 1940 United States Census
 location: Los Angeles (Calif.)
 label: 'Maps showing distribution of racial and national groups in the Los Angeles
   area, according to the 1940 United States census: Distribution of foreign born Mexicans,

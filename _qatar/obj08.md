@@ -1,6 +1,6 @@
 ---
 pid: obj08
-artist: Los Angeles Daily News
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Chavez Ravine residents refuse eviction order
 _date: '1951-08-20'

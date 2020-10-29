@@ -4,7 +4,7 @@ layout: none
 [
   {
     "pid": "obj34",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "Children on playground at Aliso Village Nursery School in Los Angeles, Calif., 1948",
     "_date": "1948",
@@ -17,7 +17,7 @@ layout: none
   },
   {
     "pid": "obj51",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Aerial view of two buildings on fire on Avalon Blvd. between 107th and 108th street during Watts Riots, Los Angeles, 1965",
     "_date": "08-15-1965",
@@ -30,7 +30,7 @@ layout: none
   },
   {
     "pid": "obj10",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Chavez Ravine property owners protest Elysian Park public housing development, Los Angeles, 1951",
     "_date": "1951",
@@ -43,7 +43,7 @@ layout: none
   },
   {
     "pid": "obj41",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Los Angeles Mayor Poulson holds handfuls of letters and telegrams supporting stand against Soviet Premier Nikita Khrushchev, 1959",
     "_date": "09-22-1959",
@@ -56,7 +56,7 @@ layout: none
   },
   {
     "pid": "obj24",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "Demonstrators protest discriminatory zoning at Los Angeles City Hall, 1946",
     "_date": "1946",
@@ -69,7 +69,7 @@ layout: none
   },
   {
     "pid": "obj04",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "Woman stands with four children in the slums, Los Angeles, 1925-1945",
     "_date": "1925-1945",
@@ -95,7 +95,7 @@ layout: none
   },
   {
     "pid": "obj20",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Dr. Martin Luther King Jr. speaking at civil rights rally at Los Angeles Coliseum, 1964",
     "_date": "06-01-1964",
@@ -121,7 +121,7 @@ layout: none
   },
   {
     "pid": "obj14",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Sheriff Deputies carry Aurora Vargas from Chavez Ravine home",
     "_date": "05-09-1954",
@@ -160,7 +160,7 @@ layout: none
   },
   {
     "pid": "obj21",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "Demonstrators protest discriminatory housing, Los Angeles, 1946",
     "_date": "1946",
@@ -173,7 +173,7 @@ layout: none
   },
   {
     "pid": "obj44",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Adobe house in the Sonora Town neighborhood of Los Angeles, ca. 1920s",
     "_date": "1920s",
@@ -186,7 +186,7 @@ layout: none
   },
   {
     "pid": "obj15",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Chavez Ravine residents wave good-bye from truck",
     "_date": "05-16-1959",
@@ -199,7 +199,7 @@ layout: none
   },
   {
     "pid": "obj35",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "People picketing outside segregationist Citizens' Council at the Los Angeles Breakfast Club, 1964",
     "_date": "08-04-1964",
@@ -212,7 +212,7 @@ layout: none
   },
   {
     "pid": "obj50",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Attorney A. L. Wirin with Rena Frye and her sons, Ronald and Marquette at Los Angeles courthouse, 1965",
     "_date": "09-03-1965",
@@ -238,7 +238,7 @@ layout: none
   },
   {
     "pid": "obj11",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Bulldozer razes last standing home in Chavez Ravine, Los Angeles (Calif.)",
     "_date": "05-09-1954",
@@ -277,7 +277,7 @@ layout: none
   },
   {
     "pid": "obj38",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Know Your City No.135 One of the Van Norman Lakes, Owens River Aqueduct reservoir, Calif.",
     "_date": "04-01-1956",
@@ -290,7 +290,7 @@ layout: none
   },
   {
     "pid": "obj28",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Marnesba Tackett, portrait",
     "_date": "09-01-1982",
@@ -303,7 +303,7 @@ layout: none
   },
   {
     "pid": "obj08",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Chavez Ravine residents refuse eviction order",
     "_date": "1951-08-20",
@@ -316,7 +316,7 @@ layout: none
   },
   {
     "pid": "obj49",
-    "artist": "Los Angeles Times",
+    "artist": "Miriam Matthews Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Watts riot scene at Central Ave. and 43rd St., Los Angeles, 1965",
     "_date": "1965",
@@ -329,7 +329,7 @@ layout: none
   },
   {
     "pid": "obj18",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Group loading bus headed to Sacramento fair housing law hearing, Los Angeles, Calif., 1963",
     "_date": "06-12-1963",
@@ -342,7 +342,7 @@ layout: none
   },
   {
     "pid": "obj09",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "Home in Chavez Ravine, Los Angeles, circa 1951",
     "_date": "1951",
@@ -368,7 +368,7 @@ layout: none
   },
   {
     "pid": "obj19",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Pickets at Valley Board of Realtors office in protest over board's stance against Rumford Housing Act, Van Nuys, Calif., 1964",
     "_date": "04-24-1964",
@@ -381,7 +381,7 @@ layout: none
   },
   {
     "pid": "obj39",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "F-86 Sabre jets being assembled at North American Aviation in Los Angeles, Calif., 1948",
     "_date": "1948",
@@ -394,7 +394,7 @@ layout: none
   },
   {
     "pid": "obj29",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Reverend Thomas Kilgore\n",
     "_date": "04-29-1979",
@@ -407,7 +407,7 @@ layout: none
   },
   {
     "pid": "obj06",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "Hillside view of Chavez Ravine, Los Angeles, 1946",
     "_date": "1946",
@@ -420,7 +420,7 @@ layout: none
   },
   {
     "pid": "obj32",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Edmund G. Brown and wife are cheered by crowd during campaign stop in Los Angeles, Calif., 1958",
     "_date": "06-04-1958",
@@ -433,7 +433,7 @@ layout: none
   },
   {
     "pid": "obj22",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Groundbreaking ceremony for Watts City Hall, Los Angeles, 1936",
     "_date": "1936",
@@ -446,7 +446,7 @@ layout: none
   },
   {
     "pid": "obj16",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Aerial view of baseball game at Dodgers Stadium in Los Angeles, 1962",
     "_date": "07-16-1962",
@@ -459,7 +459,7 @@ layout: none
   },
   {
     "pid": "obj47",
-    "artist": "Maps of Los Angeles, California, the United States and the World, circa 1516-1971",
+    "artist": "Maps of Los Angeles, California, the United States and the World, circa 1516-1970",
     "location": "Los Angeles (Calif.)",
     "label": "Inglewood the hub city : map of Los Angeles County, Southwest [Back]",
     "_date": "1908",
@@ -485,7 +485,7 @@ layout: none
   },
   {
     "pid": "obj02",
-    "artist": "Los Angeles (Calif.). City Planning Commission.",
+    "artist": "Maps Showing Distribution of Racial and National Groups in Los Angeles, according to the 1940 United States Census",
     "location": "Los Angeles (Calif.)",
     "label": "Maps showing distribution of racial and national groups in the Los Angeles area, according to the 1940 United States census: Distribution of foreign born Mexicans, U.S. Census data, 1940 : (Note: not including non-white)",
     "_date": "1943",
@@ -511,7 +511,7 @@ layout: none
   },
   {
     "pid": "obj12",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Sheriff Deputies evict Abrana Arechiga from Chavez Ravine home",
     "_date": "05-09-1954",
@@ -552,7 +552,7 @@ layout: none
     "pid": "obj03",
     "artist": "Miriam Matthews Photograph Collection",
     "location": "Los Angeles (Calif.)",
-    "label": "Map of Los Angeles titled A Study in Black & White: Spread of Negro race\nshown by dark spots & areas. Proper Restrictions: The only safeguard,\nbetween 1923-1930",
+    "label": "Map of Los Angeles titled A Study in Black & White: Spread of Negro race \nshown by dark spots & areas. Proper Restrictions: The only safeguard, \nbetween 1923-1930",
     "_date": "1923-1930",
     "object_type": "map",
     "current_location": "University of California, Los Angeles. Library. Department of Special Collections",
@@ -576,7 +576,7 @@ layout: none
   },
   {
     "pid": "obj13",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Angustain family evicted from home in Chavez Ravine, Los Angeles (Calif.)",
     "_date": "05-09-1954",
@@ -589,7 +589,7 @@ layout: none
   },
   {
     "pid": "obj27",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Dr. Martin Luther King chatting with a little girl at Nickerson Gardens housing project in Los Angeles, Calif., 1964",
     "_date": "10-28-1964",
@@ -602,7 +602,7 @@ layout: none
   },
   {
     "pid": "obj07",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "Street scene in Chavez Ravine, Los Angeles, 1947",
     "_date": "1947",
@@ -615,7 +615,7 @@ layout: none
   },
   {
     "pid": "obj33",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "Leaders at a conference on Fair Employment Practices, Los Angeles, 1956",
     "_date": "05-08-1956",
@@ -628,7 +628,7 @@ layout: none
   },
   {
     "pid": "obj23",
-    "artist": "Los Angeles Daily News",
+    "artist": "Los Angeles Daily News Negatives",
     "location": "Los Angeles (Calif.)",
     "label": "Demonstrators rest during a discriminatory housing protest, Los Angeles, 1945",
     "_date": "1945",
@@ -641,7 +641,7 @@ layout: none
   },
   {
     "pid": "obj17",
-    "artist": "Los Angeles Times",
+    "artist": "Los Angeles Times Photograph Collection",
     "location": "Los Angeles (Calif.)",
     "label": "CORE sit-in demonstrators at Southwood Homes sales office, Torrance, Calif., 1963",
     "_date": "06-23-1963",

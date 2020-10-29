@@ -1,6 +1,6 @@
 ---
 pid: obj44
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Adobe house in the Sonora Town neighborhood of Los Angeles, ca. 1920s
 _date: 1920s
