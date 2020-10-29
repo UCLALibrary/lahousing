@@ -106,6 +106,8 @@ menu:
     sub:
       - label: 'About the Project'
         link: '/about/'
+      - label: 'Reuse'
+        link: '/reuse/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
