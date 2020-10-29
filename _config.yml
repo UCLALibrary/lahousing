@@ -130,10 +130,11 @@ footer:
   links:
     - label: 'GitHub'
       link: 'https://github.com/UCLALibrary/lahousing'
-    - label: 'Credits'
-      link: '/credits'
     - label: 'UCLA Library Digital Collections'
       link: 'https://digital.library.ucla.edu/'
+    - label: 'Credits'
+      link: '/credits'
+
   logos:
     - img: '/img/housinglogo.png'
 
