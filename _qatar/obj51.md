@@ -1,6 +1,6 @@
 ---
 pid: obj51
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Aerial view of two buildings on fire on Avalon Blvd. between 107th and 108th
   street during Watts Riots, Los Angeles, 1965

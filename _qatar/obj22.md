@@ -1,6 +1,6 @@
 ---
 pid: obj22
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Groundbreaking ceremony for Watts City Hall, Los Angeles, 1936
 _date: '1936'

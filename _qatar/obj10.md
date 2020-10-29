@@ -1,6 +1,6 @@
 ---
 pid: obj10
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Chavez Ravine property owners protest Elysian Park public housing development,
   Los Angeles, 1951

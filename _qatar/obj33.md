@@ -1,6 +1,6 @@
 ---
 pid: obj33
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Leaders at a conference on Fair Employment Practices, Los Angeles, 1956
 _date: 05-08-1956

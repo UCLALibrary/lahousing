@@ -1,6 +1,6 @@
 ---
 pid: obj29
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: 'Reverend Thomas Kilgore
 

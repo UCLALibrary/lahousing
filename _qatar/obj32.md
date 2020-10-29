@@ -1,6 +1,6 @@
 ---
 pid: obj32
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Edmund G. Brown and wife are cheered by crowd during campaign stop in Los Angeles,
   Calif., 1958

@@ -1,6 +1,6 @@
 ---
 pid: obj49
-artist: Los Angeles Times
+artist: Miriam Matthews Photograph Collection
 location: Los Angeles (Calif.)
 label: Watts riot scene at Central Ave. and 43rd St., Los Angeles, 1965
 _date: '1965'

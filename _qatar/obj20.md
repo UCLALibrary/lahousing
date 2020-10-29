@@ -1,6 +1,6 @@
 ---
 pid: obj20
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Dr. Martin Luther King Jr. speaking at civil rights rally at Los Angeles Coliseum,
   1964

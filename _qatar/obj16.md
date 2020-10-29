@@ -1,6 +1,6 @@
 ---
 pid: obj16
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Aerial view of baseball game at Dodgers Stadium in Los Angeles, 1962
 _date: 07-16-1962

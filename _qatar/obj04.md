@@ -1,6 +1,6 @@
 ---
 pid: obj04
-artist: Los Angeles Daily News
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
 label: Woman stands with four children in the slums, Los Angeles, 1925-1945
 _date: 1925-1945

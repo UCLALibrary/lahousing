@@ -2,10 +2,8 @@
 pid: obj03
 artist: Miriam Matthews Photograph Collection
 location: Los Angeles (Calif.)
-label: |-
-  Map of Los Angeles titled A Study in Black & White: Spread of Negro race
-  shown by dark spots & areas. Proper Restrictions: The only safeguard,
-  between 1923-1930
+label: "Map of Los Angeles titled A Study in Black & White: Spread of Negro race \nshown
+  by dark spots & areas. Proper Restrictions: The only safeguard, \nbetween 1923-1930"
 _date: 1923-1930
 object_type: map
 current_location: University of California, Los Angeles. Library. Department of Special

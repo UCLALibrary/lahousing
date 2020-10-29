@@ -1,6 +1,6 @@
 ---
 pid: obj12
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Sheriff Deputies evict Abrana Arechiga from Chavez Ravine home
 _date: 05-09-1954

@@ -1,6 +1,6 @@
 ---
 pid: obj50
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Attorney A. L. Wirin with Rena Frye and her sons, Ronald and Marquette at Los
   Angeles courthouse, 1965

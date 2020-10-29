@@ -1,6 +1,6 @@
 ---
 pid: obj19
-artist: Los Angeles Times
+artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: Pickets at Valley Board of Realtors office in protest over board's stance against
   Rumford Housing Act, Van Nuys, Calif., 1964
