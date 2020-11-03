@@ -57,7 +57,7 @@ header & nav bar
 
   .navbar-brand {
     font-weight: 700;
-    color: $accent-light;
+    color: #6d3232;
     font-size: 2rem;
     white-space: normal;
   }
@@ -201,7 +201,7 @@ content section
   width: 100vw;
   padding-bottom: 5rem;
   padding-top: 3rem;
-  background-color: $neutral;
+  background-color: #6d3232;
   col {
     flex-basis: 0;
     flex-shrink: 0;
@@ -286,7 +286,7 @@ content section
   .parallax-caption {
     margin: 0 auto;
     width: 100vw;
-    background-color: $neutral;
+    background-color: #6d3232;
     padding: $less-margin 0;
     a {
       color: $accent-light;
@@ -500,7 +500,7 @@ search box
           display: table-cell;
           padding: .4rem;
           vertical-align: center;
-        }        
+        }
 
         // .info {
         //   text-decoration: none;
