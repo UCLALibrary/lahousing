@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'LA Housing'
+title:            'Divided Development'
 description:      'A Collection Enhancement Project'
 url:              'https://UCLALibrary.github.io'
-baseurl:          '/lahousing'
+baseurl:          '/divideddevelopment'
 copyright:        'Copyright UCLA Library, 2020'
 logo:             '/assets/logo.png'
 
