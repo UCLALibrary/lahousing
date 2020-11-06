@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: qatar
   pid: obj21
-  y: 25%
+  y: 55%
   height: '500px'
 ---
 
