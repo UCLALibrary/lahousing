@@ -1,9 +1,8 @@
 ---
 layout: exhibit
-title: 'Exhibit B: Inline Image References'
-author: Mihr 'Ali
-publish_date: 2018-11-15
-permalink: /exhibits/b/
+title: 'Housing Rights are Civil Rights'
+publish_date: 2020-11-17
+permalink: /exhibits/civilrights/
 ---
 
 Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.
