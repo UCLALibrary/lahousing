@@ -1,7 +1,7 @@
 {% assign collection = site[include.collection] %}
 
 {% if include.only and include.facet_by %}
-  {% assign subset = collection | where: include.facet_by, include.only | sort: 'order' %}
+  {% assign subset = collection | where: include.facet_by, include.only | %}
 {% endif %}
 
 <div id='wax-gallery-{{ include.collection }}-container' class='wax-gallery-container full-width'>
@@ -40,7 +40,7 @@
         buttonDiv.append("<button class='btn facet active' data-filter='all'>show all</button>");
 
         for (i in facets) {
-          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i]}</button>`);
+          buttonDiv.append(`<button class='btn facet' data-filter='${facets[i]}'>${facets[i].replace(/-/g, ' ')}</button>`);
         }
 
         $(document).ready(function(){
