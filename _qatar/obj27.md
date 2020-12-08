@@ -14,6 +14,7 @@ order: '26'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: African Americans; Civil Rights
 subjects: 'African Americans; civil rights workers; Civil rights; King, Martin Luther,
   Jr., 1929-1968; African American neighborhoods; Children; Watts '
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002srqz/full/250,/0/default.jpg

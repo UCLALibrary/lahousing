@@ -13,6 +13,7 @@ order: '44'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
+facets: African Americans
 subjects: African Americans; African American neighborhoods
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz19w1zk7/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz19w1zk7/full/600,/0/default.jpg

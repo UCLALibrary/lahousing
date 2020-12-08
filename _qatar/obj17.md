@@ -14,6 +14,7 @@ order: '16'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: African Americans; Civil Rights
 subjects: African Americans; Civil rights; Protests; Demonstrations; Discrimination
   in housing; Congress of Racial Equality; Redlining
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgp4/full/250,/0/default.jpg

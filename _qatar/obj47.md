@@ -13,6 +13,7 @@ order: '46'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
+facets: African Americans; Maps
 subjects: African Americans; African American neighborhoods; Discrimination in housing;
   Redlining; Maps
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zc9mjd/full/250,/0/default.jpg

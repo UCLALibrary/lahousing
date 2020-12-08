@@ -13,6 +13,7 @@ order: '27'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: African Americans; Civil Rights
 subjects: African Americans; civil rights; civil rights workers; Tackett, Marnesba;
   Segregation in education; National Association for the Advancement of Colored People
   (NAACP); African American women

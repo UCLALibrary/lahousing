@@ -13,6 +13,7 @@ order: '29'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: African Americans; Civil Rights
 subjects: African American churches; African American clergy; African Americans; Religion;
   civil rights
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1s4894z/full/250,/0/default.jpg

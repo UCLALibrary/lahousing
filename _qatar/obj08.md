@@ -13,6 +13,7 @@ order: '07'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Chavez Ravine
+facets: Aréchiga Family; Mexican Americans; Eviction
 subjects: Eviction; Eminent domain; Protests; Mexican American neighborhoods; Mexican
   Americans; Cerda, Agnes; Chavez Ravine; Land use; Mexican American women; Aréchiga
   Family
