@@ -14,6 +14,7 @@ order: '00'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
+facets: African Americans; Maps
 subjects: Ranches; Land grants; African Americans; Discrimination in housing; Maps;
   Zuniga, Quinto, b. about 1746; Tapia, Jose Bartolome, circa 1766-1824; Rodriguez,
   Josef Ygnacio, b. 1759; Reyes, Juan Francisco, 1749-1809; Polanco, Jose; Nieto,

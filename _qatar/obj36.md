@@ -15,6 +15,7 @@ order: '35'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
+facets: Laws Family; African Americans
 subjects: African Americans; soldiers; World War, 1939-1945; Discrimination in employment;
   African American civic leaders
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cc2j82/full/300,/0/default.jpg

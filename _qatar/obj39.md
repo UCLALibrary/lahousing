@@ -14,6 +14,7 @@ order: '38'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
+facets: Laws Family
 subjects: |2-
 
   Discrimination in employment; Aerospace industries; North American airplanes; North American Aviation, inc.

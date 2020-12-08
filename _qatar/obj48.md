@@ -14,6 +14,7 @@ order: '47'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: African Americans; Civil Rights
 subjects: |-
   African American churches; African Methodist Episcopal Church--Bishops;
   Brookins, H. H. (Hamel Hartford), 1925-2012; African American civil rights workers; discrimination in housing; discrimination in education; discrimination in employment; civil rights--religious aspects; African Americans

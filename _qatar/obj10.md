@@ -14,6 +14,7 @@ order: '09'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Chavez Ravine
+facets: Aréchiga Family; Mexican Americans; Eviction
 subjects: Eminent domain; Eviction; Mexican Americans; Housing; Chavez Ravine; Aréchiga
   Family; Demonstrations; Protests
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb0s200347/full/250,/0/default.jpg

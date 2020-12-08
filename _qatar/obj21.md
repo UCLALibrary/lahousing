@@ -13,6 +13,7 @@ order: '20'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
+facets: Laws Family
 subjects: Activism; Demonstrations; Protests; Government; Discrimination in housing;
   African Americans; Housing; Laws Family
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb7w10088j/full/250,/0/default.jpg

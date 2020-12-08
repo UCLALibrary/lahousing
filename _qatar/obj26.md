@@ -13,6 +13,7 @@ order: '25'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
+facets: Laws Family
 subjects: Bass, Charlotta A., 1880-1969; African American newspapers; African Americans;
   African American women; civil rights workers; Laws Family
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gj121d/full/250,/0/default.jpg

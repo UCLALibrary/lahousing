@@ -14,6 +14,7 @@ order: '31'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: Civil Rights
 subjects: Political candidates; Governors--Election; Government; Edmund G. Brown
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002nb2j/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002nb2j/full/full/0/default.jpg

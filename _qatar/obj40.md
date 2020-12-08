@@ -13,6 +13,7 @@ order: '39'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
+facets: Civil Rights
 subjects: African American; civil rights workers; African American sociologists; Du
   Bois, W. E. B. (William Edward Burghardt), 1868-1963
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v42c7g/full/250,/0/default.jpg

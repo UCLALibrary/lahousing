@@ -13,6 +13,7 @@ order: '22'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
+facets: Laws Family
 subjects: Clergy; African Americans; Civil Rights Workers; Activism; Civil rights;
   Religious aspects; Religious leaders; Public speaking; King, Martin Luther, Jr.,
   1929-1968; Laws Family

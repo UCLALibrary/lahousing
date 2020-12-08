@@ -13,6 +13,7 @@ order: '11'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Chavez Ravine
+facets: Aréchiga Family; Mexican Americans; Eviction
 subjects: Mexican American families; Mexican Americans; Eviction; Mexican American
   neighborhoods; Eminent domain; Angustain, Victoria; Aréchiga, Abrana; Aréchiga Family;
   Children; Mexican American women; Chavez Ravine

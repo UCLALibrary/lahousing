@@ -13,6 +13,7 @@ order: '32'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: African Americans; Civil Rights
 subjects: African Americans; civil rights workers; Business; Discrimination in employment;
   Discrimination in housing
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9779p322/full/250,/0/default.jpg

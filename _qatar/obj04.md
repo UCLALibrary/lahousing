@@ -13,6 +13,7 @@ order: '03'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
+facets: Children
 subjects: 'Housing; Poverty; Children '
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0025gnmx/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0025gnmx/full/full/0/default.jpg

@@ -14,6 +14,7 @@ order: '34'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: African Americans; Civil Rights
 subjects: |-
   African Americans; Civil rights; Redlining; Picketing;
   Discrimination in housing; Citizens' Councils of America

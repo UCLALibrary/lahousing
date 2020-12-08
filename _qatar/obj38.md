@@ -14,6 +14,7 @@ order: '37'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
+facets: Laws Family; African Americans
 subjects: Lakes; Reservoirs; Los Angeles Department of Water and Power; African Americans
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002t709/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002t709/full/600,/0/default.jpg

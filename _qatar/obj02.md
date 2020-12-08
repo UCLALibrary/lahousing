@@ -16,6 +16,7 @@ order: '01'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
+facets: Mexican Americans; Maps
 subjects: Ethnology; Statistics; Maps; Population; Mexican Americans; Mexican American
   Neighborhoods
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz001d352g/16,41,5611,7794/250,/0/default.jpg

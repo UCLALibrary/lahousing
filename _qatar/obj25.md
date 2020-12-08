@@ -14,6 +14,7 @@ order: '24'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Laws family
+facets: Laws Family
 subjects: Cox, Linda Spikes Smith; Gladys Mason Owens, 1895-1995; Mathews, Elwood;
   Cox, Cheryl; Cox, Robynn; African Americans; Discrimination in housing; Redlining;
   African American families; Children; Laws Family

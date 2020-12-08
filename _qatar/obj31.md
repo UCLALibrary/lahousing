@@ -14,6 +14,7 @@ order: '30'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Civil Rights
+facets: African Americans; Civil Rights
 subjects: African American physicians; African American lawyers; African American
   politicians; African American civic leaders; African Americans; civil rights workers;
   Neusom, Thomas G. (Thomas George), 1922-1983; Diggs, Charles C.; St. Paul Baptist
