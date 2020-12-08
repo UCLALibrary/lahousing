@@ -12,4 +12,4 @@ __Divided Development and the Struggle for Housing Justice in LA__ uses archival
 
 ### Subjects
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='subjects' collection='qatar' %}
