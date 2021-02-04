@@ -10,7 +10,7 @@ We are a group of Library and Information Studies Master’s students at UCLA wo
 
 In the process of selecting materials for this exhibit we have also considered ways that the descriptive metadata for these items can be enhanced or remediated on the Digital Collections website to improve the discoverability of these materials for patrons interested in researching zoning, redlining, evictions, and other methods used to segregate housing and the urban landscape throughout the history of Los Angeles.<br />
 
-Credits:<br />
+__Credits:__<br />
 Jake Tompkins<br />
 Joaquin Peres<br />
 Julia Tanenbaum<br />
@@ -18,7 +18,7 @@ Katherine Ramirez<br />
 Rachel Abrahams<br />
 Syann Lunsford<br />
 
-Acknowledgments:<br />
+__Acknowledgments:__<br />
 Martha Steele – UCLA Library Cataloging and Metadata Center<br />
 Claudia Horning – Assistant Head, UCLA Library Cataloging and Metadata Center<br />
 Teresa Barnett – Director, UCLA Library Center for Oral History Research<br />
