@@ -19,5 +19,5 @@ subjects: Sports; Landmarks; Eminent domain; Stadiums; Dodger Stadium; Chavez Ra
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rdch/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rdch/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002rdch/manifest
-Note: 
+Note:
 ---

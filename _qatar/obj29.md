@@ -4,7 +4,7 @@ artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
 label: 'Reverend Thomas Kilgore
 
-'
+  '
 _date: 04-29-1979
 object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special
@@ -21,5 +21,5 @@ subjects: African American clergy; African Americans; Religion; Baptist Church; 
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb009n99cc/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb009n99cc/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb009n99cc/manifest
-Note: 
+Note:
 ---

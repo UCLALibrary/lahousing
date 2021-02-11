@@ -13,11 +13,12 @@ copyright_status: copyrighted
 order: '40'
 layout: lahousing_item
 collection: qatar
-ucla_collection: Laws family
-facets: Laws Family
-subjects: Mayors; Visits of state--Russian; Government
+ucla_collection: Chavez Ravine
+facets: Aréchiga Family; Mexican Americans
+subjects: Mayors; Visits of state--Russian; Government; Anti-Communism; Chavez Ravine;
+  Poulson, Norris
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002qsw4/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002qsw4/full/600,/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002qsw4/manifest
-Note: 
+Note:
 ---

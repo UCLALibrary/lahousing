@@ -20,5 +20,5 @@ subjects: Clergy; African Americans; Civil Rights Workers; Activism; Civil right
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002s4mq/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002s4mq/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002s4mq/manifest
-Note: 
+Note:
 ---

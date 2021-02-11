@@ -18,5 +18,5 @@ subjects: African Americans; African American neighborhoods
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002dcfs5/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002dcfs5/full/600,/0/default.jpg
 manifest: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002dcfs5/info.json
-Note: 
+Note:
 ---

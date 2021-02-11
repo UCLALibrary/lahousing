@@ -20,5 +20,5 @@ subjects: African Americans; Civil rights; Protests; Demonstrations; Discriminat
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgp4/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgp4/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002rgp4/manifest
-Note: 
+Note:
 ---

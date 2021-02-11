@@ -20,5 +20,5 @@ subjects: Activism; Protests; Civil rights workers; Discrimination in housing; S
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgj2/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002rgj2/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002rgj2/manifest
-Note: 
+Note:
 ---
