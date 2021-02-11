@@ -8,7 +8,7 @@ At the beginning of the twentieth century, many African Americans looked to Los 
 
 One of Los Angeles’ most alluring promises was the opportunity to own a home. W.E.B. Du Bois, a leading figure in the African American community, wrote glowing descriptions of California, calling it a place where “hospitality of all its races lingers long.”[^4] African American homeownership in Los Angeles exceeded that of any other minority group in the city, as well as the rates of African-American homeownership in comparable Northeastern cities like New York.[^5] In a 1913 publication, Du Bois included photographs of African American families in front of their “beautiful homes.”[^6] Although he concedes that “Los Angeles is not Paradise… The color line is there and sharply drawn” when describing discrimination in shops and restaurants, Du Bois ultimately paints an enticing picture of Los Angeles:
 
->> These colored people are pushing and energetic. They are without doubt the most beautifully housed group of colored people in the United States. They are full of push and energy and are used to working together.[^7]
+> "These colored people are pushing and energetic. They are without doubt the most beautifully housed group of colored people in the United States. They are full of push and energy and are used to working together."[^7]
 
 {% include inline_image.html collection='qatar' pid='obj43' %}
 
@@ -40,17 +40,17 @@ Thus, Du Bois’ optimistic portrayal of the promises of Los Angeles painted an 
 
 
 ### Notes
-[^1]: Freer, “L.A. Race Woman,” 611.
-[^2]: Gregory Christopher Brown, James Diego Vigil, and Eric Robert Taylor, “The Ghettoization of Blacks in Los Angeles: The Emergence of Street Gangs,” Journal of African American Studies 16, no. 2 (2012): 211.
+[^1]: Regina Freer, “L.A. Race Woman: Charlotta Bass and the Complexities of Black Political Development in Los Angeles.” *American Quarterly* 56, no. 3 (2004): 611.
+[^2]: Gregory Christopher Brown, James Diego Vigil, and Eric Robert Taylor, “The Ghettoization of Blacks in Los Angeles: The Emergence of Street Gangs,” *Journal of African American Studies* 16, no. 2 (2012): 211.
 [^3]: Anderson, “A City Called Heaven: Black Enchantment and Despair in Los Angeles,” 336–64.
 [^4]: Du Bois, “Colored California,” 193.
 [^5]: “Los Angeles,” African American Design Nexus, https://aadn.gsd.harvard.edu/places/los-angeles/.
-[^6]:
+[^6]: W. E. Burghardt Du Bois, “Colored California,” *The Crisis* 6, no. 4 (August 1913): 193.
 [^7]: Du Bois, 213.
-[^8]: A.M. Chase et al., The Hieroglyphics of Love: Stories of Sonoratown and Old Mexico (Artemisia Bindery, 1906), 67, https://books.google.com/books?id=jVAgAAAAMAAJ.
+[^8]: A.M. Chase et al., *The Hieroglyphics of Love: Stories of Sonoratown and Old Mexico* (Artemisia Bindery, 1906), 67, https://books.google.com/books?id=jVAgAAAAMAAJ.
 [^9]: Parson et al., “A Mecca for the Unfortunate,” 33.
 [^10]: Parson et al., 7.
-[^11]:
+[^11]: Brown, Vigil, and Taylor, “The Ghettoization of Blacks in Los Angeles,” 211.
 [^12]: Brown, Vigil, and Taylor, “The Ghettoization of Blacks in Los Angeles,” 211.
 [^13]: “How Prop 14 Shaped California’s Racial Covenants,” KCET, September 20, 2017, https://www.kcet.org/shows/city-rising/how-prop-14-shaped-californias-racial-covenants.
 [^14]: Brown, Vigil, and Taylor, 211.

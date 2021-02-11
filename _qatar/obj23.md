@@ -2,7 +2,7 @@
 pid: obj23
 artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
-label: Demonstrators rest during a discriminatory housing protest, Los Angeles, 1945
+label: Sisters Dolores Laws and Paulette Fears inside the Laws home, 1945
 _date: '1945'
 object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special
@@ -20,5 +20,5 @@ subjects: Clergy; African Americans; Civil Rights Workers; Activism; Civil right
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9p3009s3/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9p3009s3/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb9p3009s3/manifest
-Note: 
+Note:
 ---

@@ -19,5 +19,5 @@ subjects: Ground breaking ceremonies; Watts; African American neighborhoods; Law
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002h849g/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz002h849g/full/full/0/default.jpg
 manifest: http://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz002h849g/manifest
-Note: 
+Note:
 ---

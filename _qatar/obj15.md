@@ -2,7 +2,7 @@
 pid: obj15
 artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
-label: Chavez Ravine residents wave good-bye from truck
+label: Chavez Ravine residents board flatbed truck
 _date: 05-16-1959
 object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special
@@ -19,5 +19,5 @@ subjects: Eminent domain; Eviction; Mexican American neighborhoods; Mexican Amer
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb4779n9fn/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb4779n9fn/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb4779n9fn/manifest
-Note: 
+Note:
 ---

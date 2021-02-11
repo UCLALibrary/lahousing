@@ -20,5 +20,5 @@ subjects: Du Bois, W. E. B. (William Edward Burghardt), 1868-1963; African Ameri
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1w683xd/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1w683xd/full/600,/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w683xd/manifest?_ga=2.266678030.1680875872.1602991567-1269599694.1567541750
-Note: 
+Note:
 ---

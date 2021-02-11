@@ -19,5 +19,5 @@ subjects: Activism; Demonstrations; Protests; Government; Discrimination in hous
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb7w10088j/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb7w10088j/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb7w10088j/manifest
-Note: 
+Note:
 ---

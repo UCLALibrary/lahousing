@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Housing Rights are Civil Rights'
-publish_date: 2020-11-17
+publish_date: 2021-02-04
 permalink: /exhibits/civilrights/
 ---
 

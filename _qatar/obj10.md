@@ -20,5 +20,5 @@ subjects: Eminent domain; Eviction; Mexican Americans; Housing; Chavez Ravine; A
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb0s200347/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb0s200347/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb0s200347/manifest
-Note: 
+Note:
 ---
