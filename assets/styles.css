@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #2B1414;
   text-align: left;
   background-color: #fff
 }
@@ -153,9 +153,9 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #6d3232;
   text-decoration: none;
-  background-color: transparent;
+  background-color: #6D3232;
   -webkit-text-decoration-skip: objects
 }
 
@@ -2677,16 +2677,16 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary, .wax-gallery-container .facet-buttons .facet, .wax-gallery-container .facet-buttons .active {
-  color: #6c757d;
-  background-color: transparent;
+  color: #000000;
+  background-color: #EEDECA;
   background-image: none;
-  border-color: #6c757d
+  border-color: #EEDECA
 }
 
 .btn-outline-secondary:hover, .wax-gallery-container .facet-buttons .facet:hover, .wax-gallery-container .facet-buttons .active:hover {
-  color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d
+  color: #000000;
+  background-color: #E7CCAA;
+  border-color: #E7CCAA
 }
 
 .btn-outline-secondary:focus, .wax-gallery-container .facet-buttons .facet:focus, .wax-gallery-container .facet-buttons .active:focus, .btn-outline-secondary.focus, .wax-gallery-container .facet-buttons .focus.facet, .wax-gallery-container .facet-buttons .focus.active {
@@ -2694,14 +2694,14 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary.disabled, .wax-gallery-container .facet-buttons .disabled.facet, .wax-gallery-container .facet-buttons .disabled.active, .btn-outline-secondary:disabled, .wax-gallery-container .facet-buttons .facet:disabled, .wax-gallery-container .facet-buttons .active:disabled {
-  color: #6c757d;
+  color: #EEDECA;
   background-color: transparent
 }
 
 .btn-outline-secondary:not(:disabled):not(.disabled):active, .wax-gallery-container .facet-buttons .facet:not(:disabled):not(.disabled):active, .wax-gallery-container .facet-buttons .active:not(:disabled):not(.disabled):active, .btn-outline-secondary:not(:disabled):not(.disabled).active, .wax-gallery-container .facet-buttons :not(:disabled):not(.disabled).active, .show>.btn-outline-secondary.dropdown-toggle, .wax-gallery-container .facet-buttons .show>.dropdown-toggle.facet, .wax-gallery-container .facet-buttons .show>.dropdown-toggle.active {
-  color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d
+  color: #EEDECA;
+  background-color: #6D3232;
+  border-color: #6D3232
 }
 
 .btn-outline-secondary:not(:disabled):not(.disabled):active:focus, .wax-gallery-container .facet-buttons .facet:not(:disabled):not(.disabled):active:focus, .wax-gallery-container .facet-buttons .active:not(:disabled):not(.disabled):active:focus, .btn-outline-secondary:not(:disabled):not(.disabled).active:focus, .wax-gallery-container .facet-buttons :not(:disabled):not(.disabled).active:focus, .show>.btn-outline-secondary.dropdown-toggle:focus, .wax-gallery-container .facet-buttons .show>.dropdown-toggle.facet:focus, .wax-gallery-container .facet-buttons .show>.dropdown-toggle.active:focus {
@@ -2920,7 +2920,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-link:disabled, .btn-link.disabled {
-  color: #6c757d;
+  color: #EEDECA;
   pointer-events: none
 }
 
@@ -9121,7 +9121,7 @@ a.text-dark:hover, a.text-dark:focus {
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #fff;
+  background-color: #FFF6EA;
   font-family: "Open Sans", "sans-serif";
   font-display: auto;
   -webkit-font-smoothing: antialiased;
@@ -9130,7 +9130,7 @@ html, body {
 }
 
 a {
-  color: #966d09;
+  color: #D8A3A3;
   font-weight: 700;
   text-decoration: none
 }
@@ -9153,8 +9153,8 @@ p {
 }
 
 #wax-header {
-  background-color: #fff;
-  border-bottom: 1px solid #100c01;
+  background-color: #6D3232;
+  border-bottom: 1px solid #6D3232;
   font-family: "Open Sans", "sans-serif";
   color: #100c01;
   z-index: 100000;
@@ -9164,7 +9164,7 @@ p {
 
 #wax-header .navbar-brand {
   font-weight: 700;
-  color: #6d3232;
+  color: #FFF6EA;
   font-size: 2rem;
   white-space: normal
 }
@@ -9183,7 +9183,7 @@ p {
 }
 
 #wax-header .navbar-nav .nav-link {
-  color: #100c01
+  color: #FFF6EA
 }
 
 #wax-header .navbar-nav .nav-link:hover {
@@ -9195,8 +9195,8 @@ p {
 }
 
 #wax-header .navbar-nav .dropdown-menu {
-  background-color: #fff;
-  border-color: #eae7de
+  background-color: #FFF6EA;
+  border-color: #6D3232
 }
 
 #wax-header .navbar-nav .dropdown-menu .dropdown-item:focus {
@@ -9204,7 +9204,7 @@ p {
 }
 
 #wax-main {
-  background-color: #fff;
+  background-color: #FFF6EA;
   width: 100vw;
   max-width: 100%;
   padding-top: 1.5rem;
@@ -9399,7 +9399,7 @@ p {
 }
 
 .wax-parallax .parallax-caption a {
-  color: #f0eaea;
+  color: #FFF6EA;
   font-weight: 700;
   text-decoration: none
 }
@@ -9453,7 +9453,7 @@ p {
   font-size: 3em;
   color: #100c01 !important;
   text-decoration: none !important;
-  background-color: #fff;
+  background-color: #FFF6EA;
   margin: 0
 }
 
@@ -9472,7 +9472,7 @@ p {
 .metadata-block {
   font-family: "Open Sans", "sans-serif";
   max-width: 100%;
-  border: #eae7de 1px solid;
+  border: #FFF6EA 1px solid;
   border-radius: 3px;
   padding: 1rem
 }
@@ -9531,7 +9531,7 @@ p {
   margin-right: .5em;
   margin-top: 1rem;
   font-family: "Open Sans", "sans-serif";
-  border-color: #100c01
+  border-color: #EEDECA
 }
 
 .wax-gallery-container .facet-buttons .active {
