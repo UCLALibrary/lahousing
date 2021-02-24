@@ -476,7 +476,7 @@ mark, .mark {
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  color: #2c1516;
   word-break: break-word
 }
 
@@ -9287,7 +9287,7 @@ p {
 }
 
 #wax-main #wax-content .inline-image-reference {
-  background-color: #eae7de;
+  background-color: #fef6e9;
   margin-top: 2rem;
   margin-bottom: 2rem;
   display: inline-block;
