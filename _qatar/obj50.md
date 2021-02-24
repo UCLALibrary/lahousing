@@ -20,5 +20,5 @@ subjects: Watts Riot, Los Angeles, Calif., 1965; Fyre, Ronald; Police brutality;
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002twqb/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002twqb/full/600,/0/default.jpg
 manifest: https://californica.library.ucla.edu/concern/works/bqwt2000zz-89112/manifest?manifest=https://californica.library.ucla.edu/concern/works/bqwt2000zz-89112/manifest
-Note:
+Note: 
 ---

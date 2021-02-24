@@ -19,5 +19,5 @@ subjects: Bass, Charlotta A., 1880-1969; African American newspapers; African Am
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gj121d/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gj121d/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gj121d/manifest
-Note:
+Note: 
 ---

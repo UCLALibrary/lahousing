@@ -19,5 +19,5 @@ subjects: Eminent domain; Mexican American women; Mexican American neighborhoods
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6199p0gk/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb6199p0gk/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb6199p0gk/manifest
-Note:
+Note: 
 ---

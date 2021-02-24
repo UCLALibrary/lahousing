@@ -25,5 +25,5 @@ subjects: African American physicians; African American lawyers; African America
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1x93vd7/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1x93vd7/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x93vd7/manifest
-Note:
+Note: 
 ---

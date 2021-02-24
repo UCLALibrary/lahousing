@@ -19,5 +19,5 @@ subjects: Eminent domain; Mexican American neighborhoods; Mexican Americans; Env
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb5489n9px/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb5489n9px/manifest
-Note:
+Note: 
 ---
