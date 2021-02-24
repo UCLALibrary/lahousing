@@ -20,5 +20,5 @@ subjects: Children; Playgrounds; Nursery schools; Public housing; Aliso Village 
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002ns6w/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002ns6w/full/600,/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002ns6w/manifest
-Note:
+Note: 
 ---

@@ -19,5 +19,5 @@ subjects: African Americans; African American neighborhoods; Discrimination in h
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zc9mjd/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zc9mjd/full/600,/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz00096g53/manifest?_ga=2.66372526.1680875872.1602991567-1269599694.1567541750
-Note:
+Note: 
 ---

@@ -1,24 +1,22 @@
 ---
 pid: obj04
-artist: Miriam Matthews Photograph Collection
+artist: Los Angeles Daily News Negatives
 location: Los Angeles (Calif.)
-label: "Map of Los Angeles titled A Study in Black & White: Spread of Negro race \nshown
-  by dark spots & areas. Proper Restrictions: The only safeguard, \nbetween 1923-1930"
-_date: 1923-1930
-object_type: map
+label: Woman stands with four children in the slums, Los Angeles, 1925-1945
+_date: 1925-1945
+object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special
   Collections
-source: https://digital.library.ucla.edu/catalog/t0z9wj1z-89112
-copyright_status: unknown
+source: https://digital.library.ucla.edu/catalog/xmng5200zz-89112
+copyright_status: copyrighted
 order: '03'
 layout: lahousing_item
 collection: qatar
 ucla_collection: Early Los Angeles communities
-facets: African Americans; Maps
-subjects: Discrimination in housing; Maps; African Americans; African American Neighborhoods;
-  Redlining; Population
-thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jw9z0t/full/250,/0/default.jpg
-full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jw9z0t/full/full/0/default.jpg
-manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jw9z0t/manifest
-Note:
+facets: Children
+subjects: 'Housing; Poverty; Children '
+thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0025gnmx/full/250,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0025gnmx/full/full/0/default.jpg
+manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0025gnmx/manifest
+Note: 
 ---

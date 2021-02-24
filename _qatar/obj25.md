@@ -21,5 +21,5 @@ subjects: Cox, Linda Spikes Smith; Gladys Mason Owens, 1895-1995; Mathews, Elwoo
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kp9k3v/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kp9k3v/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kp9k3v/manifest
-Note:
+Note: 
 ---

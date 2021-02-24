@@ -20,5 +20,5 @@ subjects: African Americans; Civil rights; Activism; Picketing; Protests; Discri
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002s3hp/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002s3hp/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002s3hp/manifest
-Note:
+Note: 
 ---

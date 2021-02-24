@@ -22,5 +22,5 @@ subjects: Ethnology; Statistics; Maps; Population; Mexican Americans; Mexican Am
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz001d352g/16,41,5611,7794/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz001d352g/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz001d352g/manifest
-Note:
+Note: 
 ---

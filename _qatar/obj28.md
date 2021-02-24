@@ -20,5 +20,5 @@ subjects: African Americans; civil rights; civil rights workers; Tackett, Marnes
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb3489n8xf/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb3489n8xf/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb3489n8xf/manifest
-Note:
+Note: 
 ---

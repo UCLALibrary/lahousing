@@ -19,5 +19,5 @@ subjects: African Americans; civil rights workers; Business; Discrimination in e
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9779p322/full/250,/0/default.jpg
 full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F13030%2Fhb9779p322/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F13030%2Fhb9779p322/manifest
-Note:
+Note: 
 ---
