@@ -97,6 +97,14 @@ Grading of the land that once held the Palo Verde, Bishop, and La Loma communiti
 
 {% include inline_image.html collection='qatar' pid='obj16' %}
 
+
+<script>
+var audio = new Audio("https://github.com/UCLALibrary/lahousing/tree/master/assets/audio/file_example_MP3_700KB.mp3")
+audio.play()
+</script>
+
+
+
 ### Notes
 [^1]: Eric Nusbaum, *Stealing Home: Los Angeles, the Dodgers, and the Lives Caught in Between* (PublicAffairs, 2020), 15–16.
 [^2]: “Zanja Madre – Los Angeles State Historic Park,” accessed October 27, 2020, https://lashp.com/history-2/zanja-madre/; John H. M. Laslett, *Shameful Victory: The Los Angeles Dodgers, the Red Scare, and the Hidden History of Chavez Ravine* (University of Arizona Press, 2015), 29.
