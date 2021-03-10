@@ -98,10 +98,9 @@ Grading of the land that once held the Palo Verde, Bishop, and La Loma communiti
 {% include inline_image.html collection='qatar' pid='obj16' %}
 
 
-<script>
-var audio = new Audio("https://github.com/UCLALibrary/lahousing/tree/master/assets/audio/file_example_MP3_700KB.mp3")
-audio.play()
-</script>
+<audio controls>
+  <source src="/assets/audio/sample_audio.mp3" type="audio/mpeg">
+</audio>
 
 
 
