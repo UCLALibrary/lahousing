@@ -155,7 +155,7 @@ sup {
 a {
   color: #6d3232;
   text-decoration: none;
-  background-color: #6D3232;
+  /*background-color: #6d3232; */
   -webkit-text-decoration-skip: objects
 }
 
@@ -9170,7 +9170,7 @@ p {
 }
 
 #wax-header .navbar-brand:hover {
-  color: #644906
+  /* color: #644906 */
 }
 
 #wax-header .navbar-toggler {
@@ -9179,7 +9179,7 @@ p {
 
 #wax-header .navbar-nav .nav-item {
   z-index: 1000000;
-  background-color: #fff
+  /* background-color: #fff */
 }
 
 #wax-header .navbar-nav .nav-link {
@@ -9187,7 +9187,7 @@ p {
 }
 
 #wax-header .navbar-nav .nav-link:hover {
-  color: #644906
+  /* color: #644906 */
 }
 
 #wax-header .navbar-nav .nav-link:active {
@@ -9392,6 +9392,7 @@ p {
 }
 
 .wax-parallax .parallax-caption {
+  color: #fef6e9;
   margin: 0 auto;
   width: 100vw;
   background-color: #6d3232;
@@ -9406,7 +9407,7 @@ p {
 
 .wax-parallax .parallax-caption a:hover {
   text-decoration: underline;
-  color: #644906
+  /* color: #644906 */
 }
 
 .item-view {
