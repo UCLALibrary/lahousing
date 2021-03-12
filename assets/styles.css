@@ -9137,7 +9137,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #644906
+  color: #D8A3A3
 }
 
 p {
@@ -9191,16 +9191,16 @@ p {
 }
 
 #wax-header .navbar-nav .nav-link:active {
-  background-color: #fff
+  /* background-color: #fff */
 }
 
 #wax-header .navbar-nav .dropdown-menu {
-  background-color: #FFF6EA;
+  /* background-color: #FFF6EA; */
   border-color: #6D3232
 }
 
 #wax-header .navbar-nav .dropdown-menu .dropdown-item:focus {
-  background-color: transparent
+  background-color: #6D3232
 }
 
 #wax-main {
