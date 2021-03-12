@@ -99,7 +99,7 @@ Grading of the land that once held the Palo Verde, Bishop, and La Loma communiti
 
 
 <audio controls>
-  <source src="/assets/audio/sample_audio.mp3" type="audio/mpeg">
+  <source src="../assets/audio/sample_audio.mp3" type="audio/mpeg">
 </audio>
 
 
