@@ -17,7 +17,7 @@ ucla_collection: Early Los Angeles communities
 facets: African Americans
 subjects: African Americans; African American neighborhoods
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dn5p3p/full/250,/0/default.jpg
-full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dn5p3p/full/600,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dn5p3p/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dn5p3p/manifest?_ga=2.23980858.1680875872.1602991567-1269599694.1567541750
 Note: 
 ---

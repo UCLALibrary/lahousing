@@ -19,7 +19,7 @@ subjects: |2-
 
   Discrimination in employment; Aerospace industries; North American airplanes; North American Aviation, inc.
 thumbnail: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002nt5v/full/250,/0/default.jpg
-full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002nt5v/full/600,/0/default.jpg
+full: https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0002nt5v/full/full/0/default.jpg
 manifest: https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0002nt5v/manifest
 Note: 
 ---
