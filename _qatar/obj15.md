@@ -2,7 +2,7 @@
 pid: obj15
 artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
-label: Chavez Ravine residents wave good-bye from truck
+label: Chavez Ravine residents board flatbed truck
 _date: 05-16-1959
 object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special

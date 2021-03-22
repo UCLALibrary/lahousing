@@ -2,8 +2,9 @@
 pid: obj14
 artist: Los Angeles Times Photograph Collection
 location: Los Angeles (Calif.)
-label: Sheriff Deputies carry Aurora Vargas from Chavez Ravine home
-_date: 05-09-1954
+label: Aréchiga daughter Victoria Angustain, holding child, arrested by deputies,
+  Los Angeles
+_date: 05-09-1959
 object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special
   Collections
