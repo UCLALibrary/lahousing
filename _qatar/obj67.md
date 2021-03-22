@@ -2,7 +2,7 @@
 pid: obj67
 artist: Pamphlet Maps Collection
 location: Los Angeles (Calif.)
-label: Official transit map of Los Angeles and suburbs, 1911 [Back]
+label: Official transit map of Los Angeles and suburbs, 1911
 _date: '1911'
 object_type: photograph
 current_location: University of California, Los Angeles. Library. Department of Special
