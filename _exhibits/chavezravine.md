@@ -7,6 +7,10 @@ permalink: /exhibits/chavezravine/
 
 {% include inline_image.html collection='qatar' pid='obj06' %}
 
+<audio controls autoplay>
+  <source src="https://uclalibrary.github.io/lahousing/assets/audio/LaloGuerreroysuMariachi_NuncaJamas.mp3" type="audio/mpeg">
+</audio>
+
 The Chavez Ravine acquired its name a little more than a century before the Laws’ legal battle in Willowbrook, with the arrival of Julián and Mario Chavez. In 1844, Julián, a city official, obtained 83 acres of land near the westernmost ridge of what were then called the Stone Quarry Hills. These hills once served as a refuge from flood for members of a local Tongva village, called Yaanga.[^1] They also contained significant clay deposits, and the three brickyards spread throughout the hills provided the raw material necessary for the construction of the city’s original aqueduct, its *Zanja madre* (“Mother Ditch”), at the turn of the eighteenth century.[^2] These brickyards remained a sturdy industry well into the twentieth century, as several Angeleno communities grew among the mustard- and *nopal*-studded hills.[^3]<br />
 
 This area included four other ravines, later dubbed Sulphur Ravine, Cemetery Ravine, Reservoir Ravine, and Solano Canyon.[^4] Three distinct neighborhoods—Palo Verde, La Loma, and Bishop—developed across the Sulphur and Cemetery Ravines, but their histories all fused within the local imagination into one strenuously constructed image of Chavez Ravine.
@@ -96,12 +100,6 @@ Detailed newspaper and television coverage of the Aréchiga family’s forcible 
 Grading of the land that once held the Palo Verde, Bishop, and La Loma communities began that fall, after the Supreme Court quashed the final appeals of the opponents to the Dodgers deal. The finished park saw its first game in 1962, while Manuel and Abrana Aréchiga rebuilt their lives in City Terrace.[^56] Both passed away in the early 1970s, but their struggle remained fresh in the minds of Angelenos into the twenty-first century. In 2000, Dodgers President Bob Graziano attended a “reconciliation meeting” in Solano Canyon with surviving residents of the displaced neighborhoods, some of whom found the gesture hollow amid Dodger Stadium’s continued friction with the communities that remain in Chavez Ravine.[^57]
 
 {% include inline_image.html collection='qatar' pid='obj16' %}
-
-
-<audio controls>
-  <source src="https://uclalibrary.github.io/lahousing/assets/audio/sample_audio.mp3" type="audio/mpeg">
-</audio>
-
 
 
 ### Notes
