@@ -10,7 +10,7 @@ permalink: /exhibits/chavezravine/
 The Chavez Ravine acquired its name a little more than a century before the Laws’ legal battle in Willowbrook, with the arrival of Julián and Mario Chavez. In 1844, Julián, a city official, obtained 83 acres of land near the westernmost ridge of what were then called the Stone Quarry Hills. These hills once served as a refuge from flood for members of a local Tongva village, called Yaanga.[^1] They also contained significant clay deposits, and the three brickyards spread throughout the hills provided the raw material necessary for the construction of the city’s original aqueduct, its *Zanja madre* (“Mother Ditch”), at the turn of the eighteenth century.[^2] These brickyards remained a sturdy industry well into the twentieth century, as several Angeleno communities grew among the mustard- and *nopal*-studded hills.[^3]<br />
 
 <audio controls autoplay>
-  <source src="https://uclalibrary.github.io/lahousing/assets/audio/LaloGuerreroysuMariachi_NuncaJamas.mp3" type="audio/mpeg">
+  <source src="https://uclalibrary.github.io/lahousing/assets/audio/LaloGuerreroysuMariachiNuncaJamas.mp3" type="audio/mpeg">
 </audio>
 
 This area included four other ravines, later dubbed Sulphur Ravine, Cemetery Ravine, Reservoir Ravine, and Solano Canyon.[^4] Three distinct neighborhoods—Palo Verde, La Loma, and Bishop—developed across the Sulphur and Cemetery Ravines, but their histories all fused within the local imagination into one strenuously constructed image of Chavez Ravine.
